@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/shubham1068/shubham1068/blob/main/banner.png" alt="Banner" width="100%" style="border-radius: 15px;"/>
+  <img src="https://raw.githubusercontent.com/shubham1068/shubham1068/main/astronaut-trading.png" width="100%" style="border-radius: 15px;"/>
   
   <h1>Hi, I'm Shubham Pandey 👋</h1>
   <h3>Computational Physics Student | Quant Finance & Algorithmic Trading</h3>
@@ -23,13 +23,3 @@ profile = {
     "math"      : ["Probability", "Statistics", "Linear Algebra", "Game Theory"],
     "currently" : "Research Intern @ Quant Insider | Building volatility models"
 }
-
----
-
-
-
----
-
-<div align="center">
-<sub>Built with 📐 math and ☕ coffee · Open to quant research and trading roles</sub>
-</div>

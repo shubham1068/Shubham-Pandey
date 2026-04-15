@@ -5,16 +5,10 @@
   <h3>Computational Physics Student | Quant Finance & Algorithmic Trading</h3>
   <p>📍 Pune, Maharashtra, India • BS Computational Physics, MIT-WPU (Expected June 2026)</p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-pandey-007420327/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/shubham1068)
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shubhampandey1069@gmail.com)
-</div>
-
----
 
 ### 🧠 About Me
 
-Computational Physics student specializing in **quantitative modeling**, **stochastic processes**, and **financial data analysis**. I build systematic trading strategies, volatility models, and machine learning pipelines — translating theory into scalable trading & risk systems.
+Computational Physics student specializing in **quantitative modeling**, **stochastic processes**, and **financial data analysis**. I build systematic trading strategies, volatility models, and machine learning pipelines  translating theory into scalable trading & risk systems.
 
 ```python
 profile = {
